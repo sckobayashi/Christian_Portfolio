@@ -13,8 +13,14 @@ My personal data science projects
 # Project 4: Walmart forecasting
 *Kaggle 
 
-# Project 5: NFL Analytics
+# Project 5: Google Analytics Cumtomer Revenue Prediction
 *Kaggle
 
-# Project 6: Quora Question Pairs NLP
+# Project 6: Quora Indincere Question Classification
 *Kaggle
+
+# Project 7: Tweet Sentiment Extraction
+
+# Project 8: Stack Overflow Detecting programming languages
+
+# Project 9: Predicting Molecular Properties
