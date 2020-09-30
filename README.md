@@ -21,6 +21,6 @@ My personal data science projects
 
 # Project 7: Tweet Sentiment Extraction
 
-# Project 8: Stack Overflow Detecting programming languages
+# [Project 8: Stack Overflow Detecting programming languages](https://github.com/sckobayashi/ChallengeDataEns2020/tree/master/Enedis)
 
 # Project 9: Predicting Molecular Properties
